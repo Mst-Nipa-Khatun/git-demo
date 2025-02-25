@@ -30,4 +30,12 @@ Here i have learned about version control system.
 **STEP 3 : Branching and Merging**
 1) In Step 3rd i have created a new branch named **feature-branch.**
 2) Also switch to the new branch which is **main to feature-branch.**
-3) Lastly Merge feature-branch into main
+3) Lastly Merge feature-branch into main.
+
+![git3(a).png](images%2Fgit3%28a%29.png)
+
+![git3(b).png](images%2Fgit3%28b%29.png)
+
+![git3(c).png](images%2Fgit3%28c%29.png)
+
+![git3(d).png](images%2Fgit3%28d%29.png)
