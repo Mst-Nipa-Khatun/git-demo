@@ -21,3 +21,5 @@ Here i have learned about version control system.
 4) And Push the repository to GitHub.
 
 ![git2(a).png](images%2Fgit2%28a%29.png)
+
+<img height="200px" src="D:\Nipa\Frontend Learning\bussiness Automation Assignment\assignment-12-Mst Nipa Khatun\git-demo\images\git2(b).png" width="500px"/>
