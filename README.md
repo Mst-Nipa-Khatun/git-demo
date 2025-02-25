@@ -22,4 +22,12 @@ Here i have learned about version control system.
 
 ![git2(a).png](images%2Fgit2%28a%29.png)
 
-<img height="200px" src="D:\Nipa\Frontend Learning\bussiness Automation Assignment\assignment-12-Mst Nipa Khatun\git-demo\images\git2(b).png" width="500px"/>
+![git2(b).png](images%2Fgit2%28b%29.png)
+
+![git2(c).png](images%2Fgit2%28c%29.png)
+
+
+**STEP 3 : Branching and Merging**
+1) In Step 3rd i have created a new branch named **feature-branch.**
+2) Also switch to the new branch which is **main to feature-branch.**
+3) Lastly Merge feature-branch into main
